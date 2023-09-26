@@ -2,22 +2,22 @@
 
 ### Why Open Source?
 
-Utilising open source software accelerates our development process and enhances our focus on business-specific challenges. When existing solutions fall short, we innovate and contribute back to the community, aligning with our ethical commitment to collective progress.
+Using open source software accelerates our development process and enhances our focus on business-specific challenges. When existing solutions fall short, we innovate and contribute back to the community, aligning with our ethical commitment to collective progress.
 
 ### Key Projects
 
 - **JustSaying**: A streamlined service bus built on AWS (SNS/SQS) for efficient component-to-component messaging.  
-  [GitHub: JustSaying](https://github.com/justeat/JustSaying)
+  [GitHub: JustSaying](https://github.com/justeattakeaway/JustSaying)
   
 - **JustEat.HttpClientInterception**: A .NET Standard library designed to intercept server-side HTTP dependencies.  
-  [GitHub: HttpClientInterception](https://github.com/justeat/httpclient-interception)
+  [GitHub: HttpClientInterception](https://github.com/justeattakeaway/httpclient-interception)
 
 ### Contribution Guidelines
 
 Our contribution process aligns with standard GitHub practices. Each repository contains a `CONTRIBUTING.md` file detailing project-specific requirements.
 
 1. Open an issue for discussion.
-2. Engage with project moderators.
+2. Engage with project maintainers.
 3. Fork the repository.
 4. Implement and test your changes.
 5. Submit a Pull Request against the issue.
@@ -26,7 +26,7 @@ Our contribution process aligns with standard GitHub practices. Each repository 
 
 - We aim to give back to the community.
 - We invite contributions from all.
-- Feedback is highly valued, whether through issues, tweets, or blogs.
+- Feedback is highly valued, whether through issues, pull requests, social media, or blogs.
 - We maintain high-quality code and robust test coverage for confidence in our projects.
 
 ### Licensing
@@ -41,7 +41,7 @@ Technology is what enables us to deliver those experiences to millions of custom
 
 If you’re looking for more than just a job, your place is with us!
 
-[Visit Careers side](https://careers.justeattakeaway.com/global/en)
+[Visit our Careers site](https://careers.justeattakeaway.com/global/en)
 
 
 ### Just Eat Takeaway\.com Platform
