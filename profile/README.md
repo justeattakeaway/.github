@@ -42,6 +42,3 @@ Technology is what enables us to deliver those experiences to millions of custom
 If you’re looking for more than just a job, your place is with us!
 
 [Visit our Careers site](https://careers.justeattakeaway.com/global/en)
-
-
-### Just Eat Takeaway\.com Platform
